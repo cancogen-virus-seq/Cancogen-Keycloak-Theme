@@ -219,18 +219,16 @@ a#kc-current-locale-link::after {
 }
 
 #kc-logo-wrapper {
-    background-image: url(../img/keycloak-logo-2.png);
-    background-repeat: no-repeat;
-    height: 63px;
-    width: 300px;
-    margin: 62px auto 0;
+    height: 46px;
+    width: 294px;
+    margin: 122px auto 0;
 }
 
 div.kc-logo-text {
-    background-image: url(../img/keycloak-logo-text.png);
+    background-image: url(../img/cancogen-virus-seq-logo.png);
     background-repeat: no-repeat;
-    height: 63px;
-    width: 300px;
+    height: 46px;
+    width: 294px;
     margin: 0 auto;
 }
 
@@ -502,16 +500,15 @@ ul#kc-totp-supported-apps {
     #kc-header-wrapper {
         font-size: 16px;
         font-weight: bold;
-        padding: 20px 60px 0 0;
+        padding: 20px 0 0 0;
         color: #72767b;
         letter-spacing: 0;
     }
 
     div.kc-logo-text {
-        margin: 0;
-        width: 150px;
-        height: 32px;
+        background-image: url(../img/cancogen-virus-seq-logo@2x.png);
         background-size: 100%;
+        margin: 0 auto;
     }
 
     #kc-form {
