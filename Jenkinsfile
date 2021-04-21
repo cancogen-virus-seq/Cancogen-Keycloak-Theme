@@ -60,7 +60,7 @@ spec:
                     // DNS error if --network is default
                     sh "docker build --network=host . -t ${dockerRepo}:latest -t ${dockerRepo}:${commit}"
 
-                    sh "docker push ${dockerRepo}:$${commit}"
+                    sh "docker push ${dockerRepo}:${commit}"
                     sh "docker push ${dockerRepo}:latest"
                 }
             }
