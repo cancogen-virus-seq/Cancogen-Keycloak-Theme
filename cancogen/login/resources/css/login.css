@@ -473,6 +473,10 @@ ul#kc-totp-supported-apps {
         width: 100%;
     }
 
+    div.login-pf-page-header {
+        margin-bottom: 14px !important;
+    }    
+
     .login-pf .container {
         padding-right: 80px;
     }
