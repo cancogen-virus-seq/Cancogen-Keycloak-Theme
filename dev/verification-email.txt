@@ -1,0 +1,7 @@
+Someone has created a {2} account with this email address. If this was you, click the link below to verify your email address\n\n{0}\n\nThis link will expire within {3}.\n\nIf you didn''t create this account, just ignore this message.\n\n
+Once your account is verified, you are not yet authorized to submit data to the Canadian VirusSeq Data Portal. In order to obtain the correct permission, please contact info@virus-seq-dataportal.ca with the following information:\n\n
+1. The name of your institution.\n
+2. The name of the lead investigator for your study.\n
+3. The study ID (if known).\n
+4. The email address used to login to the VirusSeq Data Portal\n\n
+Permission should be granted within 2 business days.
