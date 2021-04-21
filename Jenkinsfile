@@ -47,6 +47,13 @@ spec:
         }
     }
     stages {
+        stage('Prepare') {
+            steps {
+                script {
+                    commit = sh(returnStdout: true, script: 'git describe --always').trim()
+                }
+            }
+        }
         stage('Build & Publish') {
             when {
                 branch "main"
