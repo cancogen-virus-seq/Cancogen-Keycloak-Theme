@@ -1,5 +1,5 @@
 IDEAL MULTILINE
-Once your account is verified, you are not yet authorized to submit data to the Canadian VirusSeq Data Portal. In order to obtain the correct permission, please contact info@virus-seq-dataportal.ca with the following information:\n\n
+Once your account is verified, you are not yet authorized to submit data to the Canadian VirusSeq Data Portal. In order to obtain the correct permission, please contact info@virusseq-dataportal.ca with the following information:\n\n
 1. The name of your institution.\n
 2. The name of the lead investigator for your study.\n
 3. The study ID (if known).\n
@@ -7,4 +7,4 @@ Once your account is verified, you are not yet authorized to submit data to the 
 Permission should be granted within 2 business days.
 
 ONE-LINE
-Once your account is verified, you are not yet authorized to submit data to the Canadian VirusSeq Data Portal. In order to obtain the correct permission, please contact info@virus-seq-dataportal.ca with the following information: the name of your institution, the name of the lead investigator for your study, the study ID (if known), and the email address used to login to the VirusSeq Data Portal. Permission should be granted within 2 business days.
+Once your account is verified, you are not yet authorized to submit data to the Canadian VirusSeq Data Portal. In order to obtain the correct permission, please contact info@virusseq-dataportal.ca with the following information: the name of your institution, the name of the lead investigator for your study, the study ID (if known), and the email address used to login to the VirusSeq Data Portal. Permission should be granted within 2 business days.
